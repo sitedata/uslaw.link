@@ -20,7 +20,7 @@
     "uslawdotlink": "./server.js"
   },
   "dependencies": {
-    "async": "*",
+    "async": "1.5.2",
     "buffer-replace": "^1.0.0",
     "errorhandler": "^1.5.1",
     "express": "^4.17.1",
